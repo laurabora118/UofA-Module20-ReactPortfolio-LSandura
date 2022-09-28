@@ -29,7 +29,7 @@ Repository link where finalzed project can be pulled:
 
 Git Repository Site that shows finalized projectresults:
     https://laurabora118.github.io/uofa-module20-reactportfolio-lsandura/
-    
+
 MIT License:
     ![MIT License](assets/mitlicense.jpg)
 
@@ -37,8 +37,9 @@ References:
     1 - Assignment criteria received in UofA assignments
     
     2 - Utilized react lessons to help accomplish
-
+    
     3 - Some insights created during study group and review with classmate
+
 
 <!-- *** Extras to remove at final commit
 //old data for notes until final push
