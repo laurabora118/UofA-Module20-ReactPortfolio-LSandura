@@ -35,9 +35,7 @@ MIT License:
 
 References:
     1 - Assignment criteria received in UofA assignments
-    
     2 - Utilized react lessons to help accomplish
-    
     3 - Some insights created during study group and review with classmate
 
 
