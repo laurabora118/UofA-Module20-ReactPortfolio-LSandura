@@ -17,9 +17,8 @@ The Resume section has an option for a downloadable resume plus a list of develo
 The Footer section has text or icon links to developers github and linked in profiles and profile on other platforms such as Stack, Twitter, etc.
 
 Additional Expectations:
-
-
-    
+n/a
+ 
 <!-- ***must ADD image -->
 Assignment Example Picture:
     ![React Portfolio](assets/website1.png)
@@ -37,7 +36,7 @@ References:
 
 MIT License:
     ![MIT License](assets/mitlicense.jpg)
-    
+
 
 <!-- *** Extras to remove at final commit
 //old data for notes until final push
