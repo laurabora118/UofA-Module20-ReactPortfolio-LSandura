@@ -39,7 +39,7 @@ export default function Resume() {
       <ul>MongoDB   React   Data structures   Algorithms  GoDaddy   WordPress</ul>
       <ul>Amazon Seller, KDP and Web Services   Shopify</ul>
       <ul>Google Marketing, Analytics, and KeyWords</ul>
-      <ul>Facebook Business   Facebook Pixel and MarketingCloud Services</ul>
+      <ul>Facebook Business   Facebook Pixel and Marketing  Cloud Services</ul>
       <ul></ul>
       <ul></ul>
       <ul></ul>
@@ -55,5 +55,5 @@ export default function Resume() {
       </div>  
       </nav>
     </div>
-  );
+  )
 }
