@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react/static/css/main.21dfa3af.css",
-    "main.js": "/react/static/js/main.e84a5bbb.js",
-    "static/media/mypic.jpg": "/react/static/media/mypic.9e9a4225b8b50e2fbb81.jpg",
-    "index.html": "/react/index.html",
-    "main.21dfa3af.css.map": "/react/static/css/main.21dfa3af.css.map",
-    "main.e84a5bbb.js.map": "/react/static/js/main.e84a5bbb.js.map"
+    "main.css": "/uofa-module20-reactportfolio-lsandura/static/css/main.21dfa3af.css",
+    "main.js": "/uofa-module20-reactportfolio-lsandura/static/js/main.80a685d8.js",
+    "static/media/mypic.jpg": "/uofa-module20-reactportfolio-lsandura/static/media/mypic.9e9a4225b8b50e2fbb81.jpg",
+    "index.html": "/uofa-module20-reactportfolio-lsandura/index.html",
+    "main.21dfa3af.css.map": "/uofa-module20-reactportfolio-lsandura/static/css/main.21dfa3af.css.map",
+    "main.80a685d8.js.map": "/uofa-module20-reactportfolio-lsandura/static/js/main.80a685d8.js.map"
   },
   "entrypoints": [
     "static/css/main.21dfa3af.css",
-    "static/js/main.e84a5bbb.js"
+    "static/js/main.80a685d8.js"
   ]
 }
