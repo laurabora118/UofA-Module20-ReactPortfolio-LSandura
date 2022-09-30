@@ -19,16 +19,16 @@ The Footer section has text or icon links to developers github and linked in pro
 Additional Expectations:
 n/a
 
-Assignment Example 1 Picture:
+Assignment Example 1 Picture:    
     ![About Page](assets/website1.jpg)
 
-Assignment Example 1 Picture:
+Assignment Example 2 Picture:
     ![Portfolio Page](assets/website2.jpg)
 
-Assignment Example 1 Picture:
+Assignment Example 3 Picture:
     ![Contact Page](assets/website3.jpg)
 
-Assignment Example 1 Picture:
+Assignment Example 4 Picture:
     ![Resume Page](assets/website4.jpg)
 
 Git Repository link where finalzed project can be pulled:
