@@ -1,22 +1,25 @@
+//The Contact section has a form name, email and message and the form shows notification that the field is required if it is not filled in, and if the email is invalid it shows a message.
+
 import React from 'react';
+
+const styles = {
+  aboutStyle: {
+    background: '#70CE4E',
+  },
+};
 
 export default function Contact() {
   return (
+    <nav style={styles.aboutStyle} className="contactpage">
+    <div className="container">
     <div>
-      <h1>Contact Page</h1>
+      <h3>Contact</h3>
       <p>
-        Integer cursus bibendum sem non pretium. Vestibulum in aliquet sem, quis
-        molestie urna. Aliquam semper ultrices varius. Aliquam faucibus sit amet
-        magna a ultrices. Aenean pellentesque placerat lacus imperdiet
-        efficitur. In felis nisl, luctus non ante euismod, tincidunt bibendum
-        mi. In a molestie nisl, eu sodales diam. Nam tincidunt lacus quis magna
-        posuere, eget tristique dui dapibus. Maecenas fermentum elementum
-        faucibus. Quisque nec metus vestibulum, egestas massa eu, sollicitudin
-        ipsum. Nulla facilisi. Sed ut erat ligula. Nam tincidunt nunc in nibh
-        dictum ullamcorper. Class aptent taciti sociosqu ad litora torquent per
-        conubia nostra, per inceptos himenaeos. Etiam ornare rutrum felis at
-        rhoncus. Etiam vel condimentum magna, quis tempor nulla.
+        Fill out the form below to reach me:
       </p>
     </div>
+    </div>
+    </nav>
   );
 }
+

@@ -18,10 +18,18 @@ The Footer section has text or icon links to developers github and linked in pro
 
 Additional Expectations:
 n/a
- 
-<!-- ***must ADD image -->
-Assignment Example Picture:
-    ![React Portfolio](assets/website1.png)
+
+Assignment Example 1 Picture:
+    ![About Page](assets/website1.jpg)
+
+Assignment Example 1 Picture:
+    ![Portfolio Page](assets/website2.jpg)
+
+Assignment Example 1 Picture:
+    ![Contact Page](assets/website3.jpg)
+
+Assignment Example 1 Picture:
+    ![Resume Page](assets/website4.jpg)
 
 Repository link where finalzed project can be pulled:
     https://github.com/laurabora118/UofA-Module20-ReactPortfolio-LSandura
@@ -31,87 +39,11 @@ Git Repository Site that shows finalized projectresults:
 
 References:
     1 - Assignment criteria received in UofA assignments
-    2 - Utilized react lessons to help accomplish
+    2 - Utilized react lessons to help accomplish and refactored code
     3 - Some insights create during study group and review with a classmate
+    4 - Used https://coolors.co/70ce4e to pick split color schemes selected Lime Green 70CE4E Purple 824FCF Pink CF4FC6 and 16300D Dark Green for portfolio part
+    5 - Used PDF down load steps from https://www.geeksforgeeks.org/how-to-download-pdf-file-in-reactjs/
+    6 - Used Canva to create favicon
 
 MIT License:
     ![MIT License](assets/mitlicense.jpg)
-
-
-<!-- *** Extras to remove at final commit
-//old data for notes until final push
-//Notes from assignment
--user color scheme https://coolors.co/
-
--The contact form should be similar to the one you built in the module project. Because this application doesn’t include a back end or connect to an API, you can set up this functionality the same way you did in the module project and add in back-end functionality after you’ve covered it in the next few weeks. -In the meantime, consider adding your email address and phone number on the Contact page.
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
