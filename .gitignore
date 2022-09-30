@@ -9,7 +9,8 @@
 /coverage
 
 # production
-/build
+# /build
+# remove build from ignore
 
 # misc
 .DS_Store
