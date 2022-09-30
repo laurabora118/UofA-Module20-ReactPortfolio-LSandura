@@ -19,22 +19,22 @@ The Footer section has text or icon links to developers github and linked in pro
 Additional Expectations:
 n/a
 
-Assignment Example 1 Picture:
+Assignment Example 1 Picture:    
     ![About Page](assets/website1.jpg)
 
-Assignment Example 1 Picture:
+Assignment Example 2 Picture:
     ![Portfolio Page](assets/website2.jpg)
 
-Assignment Example 1 Picture:
+Assignment Example 3 Picture:
     ![Contact Page](assets/website3.jpg)
 
-Assignment Example 1 Picture:
+Assignment Example 4 Picture:
     ![Resume Page](assets/website4.jpg)
 
-Repository link where finalzed project can be pulled:
+Git Repository link where finalzed project can be pulled:
     https://github.com/laurabora118/UofA-Module20-ReactPortfolio-LSandura
 
-Git Repository Site that shows finalized projectresults:
+Git Page that shows finalized project results:
     https://laurabora118.github.io/uofa-module20-reactportfolio-lsandura/
 
 References:
@@ -49,3 +49,4 @@ MIT License:
     ![MIT License](assets/mitlicense.jpg)
 
 <!-- try gh-pages -b deploy -d build -->
+<!-- gh-pages -b master -d build -->
