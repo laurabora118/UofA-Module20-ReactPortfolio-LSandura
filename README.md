@@ -47,3 +47,5 @@ References:
 
 MIT License:
     ![MIT License](assets/mitlicense.jpg)
+
+<!-- try gh-pages -b deploy -d build -->
