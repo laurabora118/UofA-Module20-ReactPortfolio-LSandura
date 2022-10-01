@@ -40,7 +40,7 @@ export default function Project() {
         <ul><a href="https://laurabora118.github.io/Project1TeamPluto/">Deployed Page</a></ul>
         </ul>
       <ul>
-      <h4 style={styles.titleStyle} className="card">Team Project 2:</h4>
+      <h4 style={styles.titleStyle} className="card">Team Project 2</h4>
       <ul><a href="https://github.com/alexiaValen/Manticore">GitHub</a></ul>
       <ul><a href="https://glacial-sierra-66630.herokuapp.com">Deployed Heroku Page</a></ul>
       </ul>

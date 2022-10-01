@@ -1,3 +1,4 @@
+//form from lessons with some refactoring
 import React, { useState } from 'react';
 
 const styles = {
@@ -8,16 +9,15 @@ const styles = {
 
 //Form details how to from React Lessons and refactored
 function Form() {
-  // Here we set two state variables for firstName and lastName using `useState`
+  // Here we set variables `useState`
   const [Name, setName] = useState('');
   const [Message, setMessage] = useState('');
-  const [Email, setEmail] = useState('');
+  const [Email] = useState('');
 
   const handleInputChange = (e) => {
     // Getting the value and name of the input which triggered the change
     const { name, value } = e.target;
 
-    // Ternary statement that will call either setFirstName or setLastName based on what field the user is typing in
     return name === 'Name' ? setName(value): setMessage
   };
 
@@ -25,11 +25,12 @@ function Form() {
     // Preventing the default behavior of the form submit (which is to refresh the page)
     e.preventDefault();
 
-    // Alert the user their first and last name, clear the inputs
-    alert(`Hello ${Name} please verify your email`);
-    setName('');
-    setMessage('');
-    setEmail('');
+    // Alert the user
+    alert(`Hello ${Name} please fill out the form`);
+    // clear the inputs
+    // setName('');
+    // setMessage('');
+    // setEmail('');
   };
 
 
@@ -37,7 +38,6 @@ function Form() {
     <div>
       <nav style={styles.formStyle} className="formsection">
       <div className="container">
-      <p>      </p>
       <form className="form">
         <ul>
         <input

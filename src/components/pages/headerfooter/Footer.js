@@ -16,7 +16,7 @@ export default function Footer() {
     <nav style={styles.footerStyle} className="footersection">
     <div className="container">
         <h5>Connect with Laura online:</h5>
-        <ul><h5><a href="https://github.com/laurabora118/LMSPUBLIC">GitHub </a></h5></ul>
+        <ul><h5><a href="https://github.com/laurabora118">GitHub </a></h5></ul>
         <ul><h5><a href="https://www.linkedin.com/in/laurasandura">LinkedIn </a></h5></ul>
         <ul> </ul>
         <ul> </ul>
