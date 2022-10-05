@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/uofa-module20-reactportfolio-lsandura/static/css/main.21dfa3af.css",
-    "main.js": "/uofa-module20-reactportfolio-lsandura/static/js/main.80a685d8.js",
-    "static/media/mypic.jpg": "/uofa-module20-reactportfolio-lsandura/static/media/mypic.9e9a4225b8b50e2fbb81.jpg",
-    "index.html": "/uofa-module20-reactportfolio-lsandura/index.html",
-    "main.21dfa3af.css.map": "/uofa-module20-reactportfolio-lsandura/static/css/main.21dfa3af.css.map",
-    "main.80a685d8.js.map": "/uofa-module20-reactportfolio-lsandura/static/js/main.80a685d8.js.map"
+    "main.css": "/static/css/main.21dfa3af.css",
+    "main.js": "/static/js/main.695c1270.js",
+    "static/media/mypic.jpg": "/static/media/mypic.9e9a4225b8b50e2fbb81.jpg",
+    "index.html": "/index.html",
+    "main.21dfa3af.css.map": "/static/css/main.21dfa3af.css.map",
+    "main.695c1270.js.map": "/static/js/main.695c1270.js.map"
   },
   "entrypoints": [
     "static/css/main.21dfa3af.css",
-    "static/js/main.80a685d8.js"
+    "static/js/main.695c1270.js"
   ]
 }

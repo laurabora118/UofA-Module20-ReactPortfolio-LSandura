@@ -1,8 +1,8 @@
 {
   "name": "uofa-module20-reactportfolio-lsandura",
-  "homepage": "https://laurabora118.github.io/uofa-module20-reactportfolio-lsandura",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
+  "homepage": "https://laurabora118.github.io",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^11.1.0",
@@ -11,6 +11,7 @@
     "bootstrap": "^5.2.1",
     "dotenv": "^16.0.2",
     "gh-pages": "^4.0.0",
+    "npx": "^10.2.2",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "react-scripts": "5.0.1",
