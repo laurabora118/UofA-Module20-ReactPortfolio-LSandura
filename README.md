@@ -34,8 +34,10 @@ Assignment Example 4 Picture:
 Git Repository link where finalzed project can be pulled:
     https://github.com/laurabora118/UofA-Module20-ReactPortfolio-LSandura
 
+
 Git Page that shows finalized project results:
     https://laurabora118.github.io/uofa-module20-reactportfolio-lsandura/
+
 
 How to deploy a clone of the repo:
     In the terminal of the folder cloned you must install the following:
@@ -45,8 +47,10 @@ How to deploy a clone of the repo:
         npm start
     and then after the deploy you can view the page on the local host server that is deployed.
 
+
 Video link of working app deployed:
     https://watch.screencastify.com/v/k9Ewdv96zIGJq1d9TLg2
+
 
 References:
     1 - Assignment criteria received in UofA assignments
@@ -54,10 +58,11 @@ References:
     3 - Some insights create during study group and review with a classmate
     4 - Used https://coolors.co/70ce4e to pick split color schemes selected Lime Green 70CE4E Purple 824FCF Pink CF4FC6 and 16300D Dark Green for portfolio part
     5 - Used PDF down load steps from https://www.geeksforgeeks.org/how-to-download-pdf-file-in-reactjs/
-    6 - Used Canva to create favicon
+
 
 MIT License:
     ![MIT License](assets/mitlicense.jpg)
+
 
 <!-- try gh-pages -b deploy -d build -->
 <!-- gh-pages -b master -d build -->
