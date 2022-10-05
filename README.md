@@ -37,6 +37,17 @@ Git Repository link where finalzed project can be pulled:
 Git Page that shows finalized project results:
     https://laurabora118.github.io/uofa-module20-reactportfolio-lsandura/
 
+How to deploy a clone of the repo:
+    In the terminal of the folder cloned you must install the following:
+        npm install
+        npm install axios
+        npm run build
+        npm start
+    and then after the deploy you can view the page on the local host server that is deployed.
+
+Video link of working app deployed:
+    https://watch.screencastify.com/v/k9Ewdv96zIGJq1d9TLg2
+
 References:
     1 - Assignment criteria received in UofA assignments
     2 - Utilized react lessons to help accomplish and refactored code
