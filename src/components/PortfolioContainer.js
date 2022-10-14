@@ -9,8 +9,7 @@ import Footer from './pages/headerfooter/Footer';
 import Bottomnav from './pages/headerfooter/Bottomnav';
 import Form from './pages/contactform/Form';
 import Project from './pages/Project';
-import './images/mypic.jpg';
-// import './pages/images/mypic';
+// import Lauraimage from '../images/mypic.jpg';
 import "./styles/style.css";
 
 export default function PortfolioContainer() {

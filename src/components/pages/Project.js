@@ -46,7 +46,8 @@ export default function Project() {
       </ul>
       <ul>
       <h4 style={styles.titleStyle} className="card">Team Project 3</h4>
-      <ul>Coming Oct 17th 2022</ul>
+      <ul><a href="https://github.com/SonnyAddison/payme_now">GitHub</a></ul>
+      <ul><a href="https://git.heroku.com/payme-now.git">Deployed Heroku Page</a></ul>
       </ul>
       <ul>
       <h4 style={styles.titleStyle} className="card">React Portfolio</h4>

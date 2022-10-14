@@ -1,5 +1,6 @@
 //About me is presented first by default with photo and short bio
 import React from 'react';
+import Lauraimage from '../images/mypic.jpg';
 
 const styles = {
   aboutStyle: {
@@ -12,6 +13,20 @@ export default function About() {
   return (
       <nav style={styles.aboutStyle} className="aboutpage">
       <div className="container">
+      <div className = "lauraimage">
+          <img src = {Lauraimage} alt="lauraimage" style ={{
+                                       display: 'block',
+                                       marginLeft: 'auto',
+                                       marginRight: 'auto',
+                                       border: '10px solid purple',
+                                       boxshawdow: '10px 10px',
+                                       radius: '25px',
+                                       marginTop: '5px',
+                                       marginBottom: '5px',
+                                       width:'30%', 
+                                       height:'30%'
+                              
+          }}></img>
       <h3>About Me</h3>
       <nav style={styles.meStyle}></nav>
       <ul className="About">
