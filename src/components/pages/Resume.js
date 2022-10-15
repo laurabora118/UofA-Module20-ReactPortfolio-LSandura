@@ -32,7 +32,6 @@ export default function Resume() {
     <div>
       <nav style={styles.resumeStyle} className="resumesection">
       <div className="container">
-      <h3>Skills</h3>
       <h4>Consultant - Web Design - Marketing - Sales</h4>
       <ul>HTML    CSS     JavaScript    Terminal    GitHub    Google Api's    PureCSS     Heroku</ul>      
       <ul>jQuery    Bootstrap     Restful Api's   JSON    Parsing data    Fetch   Node.js   MySQL</ul>
@@ -40,7 +39,7 @@ export default function Resume() {
       <ul>Amazon Seller, KDP and Web Services   Shopify</ul>
       <ul>Google Marketing, Analytics, and KeyWords</ul>
       <ul>Facebook Business   Facebook Pixel and Marketing  Cloud Services</ul>
-      <ul></ul>
+      <ul>UI Testing, Bug Tracking</ul>
       <ul></ul>
       <ul></ul>
       <ul></ul>

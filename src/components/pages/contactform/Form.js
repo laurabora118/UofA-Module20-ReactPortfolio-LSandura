@@ -38,6 +38,9 @@ function Form() {
     <div>
       <nav style={styles.formStyle} className="formsection">
       <div className="container">
+      <ul>
+        Fill out the form below to reach me:
+      </ul>
       <form className="form">
         <ul>
         <input

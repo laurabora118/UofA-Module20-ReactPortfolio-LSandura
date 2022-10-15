@@ -14,9 +14,6 @@ export default function Contact() {
     <div className="container">
     <div>
       <h3>Contact</h3>
-      <p>
-        Fill out the form below to reach me:
-      </p>
     </div>
     </div>
     </nav>

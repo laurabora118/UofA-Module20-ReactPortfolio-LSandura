@@ -1,8 +1,10 @@
 import React, { useState } from 'react';
 import NavTabs from './NavTabs';
 import Resume from './pages/Resume';
+import TitleResume from './pages/TitleResume';
 import About from './pages/About';
-import Portfolio from './pages/Portfolio';
+import TitleAbout from './pages/TitleAbout';
+import TitlePortfolio from './pages/TitlePortfolio';
 import Contact from './pages/Contact';
 import Header from './pages/headerfooter/Header';
 import Footer from './pages/headerfooter/Footer';
@@ -10,7 +12,7 @@ import Bottomnav from './pages/headerfooter/Bottomnav';
 import Form from './pages/contactform/Form';
 import Project from './pages/Project';
 // import Lauraimage from '../images/mypic.jpg';
-import "./styles/style.css";
+import './styles/style.css';
 
 export default function PortfolioContainer() {
   const [currentPage, setCurrentPage] = useState('About');
@@ -18,16 +20,16 @@ export default function PortfolioContainer() {
   // This method is checking to see what the value of `currentPage` is. Depending on the value of currentPage, we return the corresponding component to render.
   const renderPage = () => {
     if (currentPage === 'About') {
-      return <div><Header /> <About /> <Footer /> <Bottomnav /></div>;
+      return <div><Header /> <TitleAbout /> <About /> <Footer /> <Bottomnav /></div>;
     }
     if (currentPage === 'Portfolio') {
-      return <div><Header /> <Portfolio /> <Project /> <Footer /> <Bottomnav /></div>;
+      return <div><Header /> <TitlePortfolio /> <Project /> <Footer /> <Bottomnav /></div>;
     }
     if (currentPage === 'Contact') {
       return <div><Header /> <Contact /> <Form /> <Footer /> <Bottomnav /></div>;
     }
     if (currentPage === 'Resume') {
-      return <div><Header /> <Resume /> <Footer /> <Bottomnav /></div>;
+      return <div><Header /> <TitleResume /> <Resume /> <Footer /> <Bottomnav /></div>;
     }
   };
 
