@@ -49,7 +49,7 @@ How to deploy a clone of the repo:
 
 
 Video link of working app deployed:
-    https://watch.screencastify.com/v/k9Ewdv96zIGJq1d9TLg2
+    https://watch.screencastify.com/v/4XLKlU8HsK3p75TZC8tZ
 
 
 References:
