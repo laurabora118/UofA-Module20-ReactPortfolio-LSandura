@@ -1,5 +1,5 @@
 {
-  "name": "uofa-module20-reactportfolio-lsandura",
+  "name": "ls",
   "version": "0.1.0",
   "private": true,
   "homepage": "https://laurabora118.github.io",
@@ -7,7 +7,7 @@
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^13.5.0",
-    "axios": "^0.27.2",
+    "axios": "10.27.2",
     "bootstrap": "^5.2.1",
     "dotenv": "^16.0.2",
     "npx": "^10.2.2",
